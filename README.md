@@ -241,4 +241,4 @@ XCOM 2 is available as a full free version, ensuring you have access to all feat
 Don't wait any longer! Download XCOM 2 for free today and lead the charge against the alien menace!
 
 ---
-**Last updated:** 2026-10-13 22:10:45 UTC
+**Last updated:** 2026-10-14 01:31:35 UTC
